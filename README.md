@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=black&section=header&height=120" style="width: 100%" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=black&section=header&height=100" style="width: 100%" />
 </div>
 
 
@@ -46,7 +46,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=black&section=footer&height=120" style="width: 100%" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=black&section=footer&height=100" style="width: 100%" />
 </div>
 
 
