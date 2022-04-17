@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=black&section=header&height=100" style="width: 100%" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=black&section=header&height=120" style="width: 100%" />
 </div>
 
 
@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">
-  <p></p>
+  <p>ɪᴛ ᴀʟᴡᴀʏs ᴇɴᴛᴇʀᴛᴀɪɴs ᴍᴇ ᴛᴏ ᴘɪᴏɴᴇᴇʀ ᴀ ɴᴇᴡ ᴘᴀᴛʜ ᴀs ᴡᴇʟʟ ᴀs <br/> ᴛᴏ sᴛʀᴜɢɢʟᴇ ᴛᴏ ғɪɴᴅ ᴀ sᴏʟᴜᴛɪᴏɴ ᴛᴏ ᴛʜᴇ ᴏʙsᴛᴀᴄʟᴇs ᴛʜʀᴏᴡɴ ɪɴ ᴛʜᴇ ᴡᴀʏ.</p>
   <div>
     <strong>🌱 I’m currently learning 
     <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
@@ -46,7 +46,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=black&section=footer&height=100" style="width: 100%" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=black&section=footer&height=120" style="width: 100%" />
 </div>
 
 
