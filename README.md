@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">
-  <p>ɪᴛ ᴀʟᴡᴀʏs ᴇɴᴛᴇʀᴛᴀɪɴs ᴍᴇ ᴛᴏ ᴘɪᴏɴᴇᴇʀ ᴀ ɴᴇᴡ ᴘᴀᴛʜ ᴀs ᴡᴇʟʟ ᴀs <br/> ᴛᴏ sᴛʀᴜɢɢʟᴇ ᴛᴏ ғɪɴᴅ ᴀ sᴏʟᴜᴛɪᴏɴ ᴛᴏ ᴛʜᴇ ᴏʙsᴛᴀᴄʟᴇs ᴛʜʀᴏᴡɴ ɪɴ ᴛʜᴇ ᴡᴀʏ.</p>
+  <p>ɪᴛ ᴀʟᴡᴀʏs ɪɴᴠɪɢᴏʀᴀᴛᴇs ᴍᴇ ᴛᴏ ᴘɪᴏɴᴇᴇʀ ᴀ ɴᴇᴡ ᴘᴀᴛʜ ᴀs ᴡᴇʟʟ ᴀs <br/> ᴛᴏ sᴛʀᴜɢɢʟᴇ ᴛᴏ ғɪɴᴅ ᴀ sᴏʟᴜᴛɪᴏɴ ᴛᴏ ᴛʜᴇ ᴏʙsᴛᴀᴄʟᴇs ᴛʜʀᴏᴡɴ ɪɴ ᴛʜᴇ ᴡᴀʏ.</p>
   <div>
     <strong>🌱 I’m currently learning 
     <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
@@ -24,14 +24,14 @@
   <div/>
   <div>
     <strong>♥ What I love</strong> 
-    <font size=2>📚ʀᴇᴀᴅɪɴɢ 🎨ᴅʀᴀᴡɪɴɢ 🚶🏻‍♀️ᴡᴀʟᴋɪɴɢ</font>
+    📚ʀᴇᴀᴅɪɴɢ 🎨ᴅʀᴀᴡɪɴɢ 🚶🏻‍♀️ᴡᴀʟᴋɪɴɢ
   <div/>
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>🛠Tech Stack💻</h3>
+  <h3>🛠Tech Stacks💻</h3>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> 
